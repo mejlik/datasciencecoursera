@@ -1,7 +1,5 @@
-## Test file for repo
+## Data Science Specialization
 
-And some list
-* bullet 1
-* bullet 2
-
-More text 
+* Uses R
+* Nine courses
+* Goes from raw data to data products
